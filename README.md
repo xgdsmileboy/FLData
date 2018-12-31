@@ -1,6 +1,6 @@
-#####This repository contains all fault localizaiton results for the paper submitted to TOSEM.
+##### This repository contains all fault localizaiton results for the paper submitted to TOSEM.
 
-#####Each sub-directory contains the detailed results for:
+##### Each sub-directory contains the detailed results for:
 
 * *assign*: only use predicates from  `scalar-pairs` of SD.
 * *branches*: only use predicates from `branches` of SD.
