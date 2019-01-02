@@ -19,4 +19,4 @@
 >
 > `ids`: if given, can be `1` or `1,4,7` or `1-10`.
 >
-> NOTE: other configurations please refer to the [configuration files](runnable/conf)
+> NOTE: other configurations please refer to the [configuration files](runnable/res/conf)
