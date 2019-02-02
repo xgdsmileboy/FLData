@@ -13,7 +13,7 @@
 
 ##### runnable : contains the runnable jar files and the corresponding configure files.
 
-> Command : `java -jar flocator projName [ids]`
+> Command : `java -jar flocator.jar projName [ids]`
 >
 > `projName`: can be "math" etc.
 >
